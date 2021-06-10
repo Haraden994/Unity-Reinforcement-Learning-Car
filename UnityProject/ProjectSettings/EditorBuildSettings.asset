@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/TrainingTrack1.unity
+    guid: a0134dee2bbcc634f9671da4f686da2b
+  - enabled: 0
+    path: Assets/Scenes/VisualWithGoal.unity
+    guid: d1c3109bdb54ad54c8a2b2838528e640
+  - enabled: 0
+    path: Assets/Scenes/TrainingTrack2.unity
+    guid: 27b0dc459fc9009488e942c5f4b8b417
+  - enabled: 1
+    path: Assets/Scenes/MultipleTracks.unity
+    guid: 8bf2997c82ea4224996044c7a5c0b686
+  m_configObjects: {}
